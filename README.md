@@ -10,6 +10,6 @@ We’ve selected the wireless dataset. Using PySpark to perform the ETL process 
 -	There were 222 Vine reviews with 5 stars & 30,543 non-Vine reviews with 5 stars.
 -	36% of Vine reviews were 5 stars & 47% of non-Vine reviews were 5 stars.
 
-## Summary: 
+## Summary
 I do not believe there is a positivity bias for reviews in the Vine program because non-Vine reviews were more likely to give a 5-star rating.
 To create an additional analysis we could include other data sources, such as apparel and home goods, in the same analysis to see if the percentages proof or disprove our statement. 
